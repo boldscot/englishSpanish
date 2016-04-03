@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-import src.controllers.Main;
+import controllers.Main;
 
 public class ReadInData {
 
