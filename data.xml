@@ -238,9 +238,9 @@
               <weight>16</weight>
             </models.Data>
             <models.Data>
-              <english>president</english>
-              <spanish>presidente</spanish>
-              <weight>19</weight>
+              <english>to drink</english>
+              <spanish>beber</spanish>
+              <weight>13</weight>
             </models.Data>
             <models.Data>
               <english>to</english>
@@ -476,11 +476,6 @@
               <english>happy</english>
               <spanish>feliz</spanish>
               <weight>10</weight>
-            </models.Data>
-            <models.Data>
-              <english>to drink</english>
-              <spanish>beber</spanish>
-              <weight>13</weight>
             </models.Data>
           </list>
           <null/>
