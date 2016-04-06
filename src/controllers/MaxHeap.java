@@ -11,12 +11,13 @@ import models.Data;
 public class MaxHeap implements MaxHeapInterface {
 
 	private Serializer serializer;
-	private ArrayList<Data> wordData;
+	private ArrayList<Data> wordData = new ArrayList<>();
 
 	public MaxHeap (Serializer serializer) {
 		this.serializer = serializer;
-		wordData = new ArrayList<>();
 	}
+	
+	public MaxHeap () {}
 
 	@SuppressWarnings("unchecked")
 	public void load() throws Exception {
@@ -96,7 +97,7 @@ public class MaxHeap implements MaxHeapInterface {
 		return maxNode;
 	}
 
-	private void siftUp() {
+	public void siftUp() {
 		int dataToSift = wordData.size() - 1;
 		while (dataToSift > 0) {
 			int parentOfDataToSift = (dataToSift - 1) / 2;
@@ -115,7 +116,7 @@ public class MaxHeap implements MaxHeapInterface {
 		}
 	}
 
-	private void siftDown() {
+	public void siftDown() {
 		int dataToSift = 0;
 		int leftChild = 2 * dataToSift + 1;
 

@@ -1,0 +1,499 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>1</elementCount>
+        <elementData>
+          <list>
+            <models.Data>
+              <english>itself, herself, himself, themselves</english>
+              <spanish>se</spanish>
+              <weight>38</weight>
+            </models.Data>
+            <models.Data>
+              <english>to have as an auxiliary verb</english>
+              <spanish>haber</spanish>
+              <weight>33</weight>
+            </models.Data>
+            <models.Data>
+              <english>to have, to possess</english>
+              <spanish>tener</spanish>
+              <weight>24</weight>
+            </models.Data>
+            <models.Data>
+              <english>used in making comparisons</english>
+              <spanish>tanto</spanish>
+              <weight>31</weight>
+            </models.Data>
+            <models.Data>
+              <english>to listen, to listen to</english>
+              <spanish>escuchar</spanish>
+              <weight>31</weight>
+            </models.Data>
+            <models.Data>
+              <english>your, her, his, their</english>
+              <spanish>su</spanish>
+              <weight>23</weight>
+            </models.Data>
+            <models.Data>
+              <english>to be pleasing</english>
+              <spanish>gustar</spanish>
+              <weight>20</weight>
+            </models.Data>
+            <models.Data>
+              <english>to wear, to carry</english>
+              <spanish>llevar</spanish>
+              <weight>23</weight>
+            </models.Data>
+            <models.Data>
+              <english>to take out, to remove</english>
+              <spanish>sacar</spanish>
+              <weight>27</weight>
+            </models.Data>
+            <models.Data>
+              <english>to work</english>
+              <spanish>trabajar</spanish>
+              <weight>15</weight>
+            </models.Data>
+            <models.Data>
+              <english>indirect-object pronoun</english>
+              <spanish>le</spanish>
+              <weight>25</weight>
+            </models.Data>
+            <models.Data>
+              <english>to want, to love</english>
+              <spanish>querer</spanish>
+              <weight>22</weight>
+            </models.Data>
+            <models.Data>
+              <english>to owe, should</english>
+              <spanish>deber</spanish>
+              <weight>19</weight>
+            </models.Data>
+            <models.Data>
+              <english>to be able</english>
+              <spanish>poder</spanish>
+              <weight>15</weight>
+            </models.Data>
+            <models.Data>
+              <english>to think</english>
+              <spanish>pensar</spanish>
+              <weight>14</weight>
+            </models.Data>
+            <models.Data>
+              <english>between, among</english>
+              <spanish>entre</spanish>
+              <weight>19</weight>
+            </models.Data>
+            <models.Data>
+              <english>to do, to make</english>
+              <spanish>hacer</spanish>
+              <weight>19</weight>
+            </models.Data>
+            <models.Data>
+              <english>to know</english>
+              <spanish>conocer</spanish>
+              <weight>14</weight>
+            </models.Data>
+            <models.Data>
+              <english>over, about</english>
+              <spanish>sobre</spanish>
+              <weight>16</weight>
+            </models.Data>
+            <models.Data>
+              <english>we, us</english>
+              <spanish>nosotros</spanish>
+              <weight>14</weight>
+            </models.Data>
+            <models.Data>
+              <english>to come</english>
+              <spanish>venir</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>to understand</english>
+              <spanish>entender</spanish>
+              <weight>21</weight>
+            </models.Data>
+            <models.Data>
+              <english>to believe, to think</english>
+              <spanish>creer</spanish>
+              <weight>25</weight>
+            </models.Data>
+            <models.Data>
+              <english>same</english>
+              <spanish>mismo</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>well as an adverb</english>
+              <spanish>bien</spanish>
+              <weight>21</weight>
+            </models.Data>
+            <models.Data>
+              <english>thanks</english>
+              <spanish>gracias</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>big, great</english>
+              <spanish>grande</spanish>
+              <weight>16</weight>
+            </models.Data>
+            <models.Data>
+              <english>low, under</english>
+              <spanish>bajo</spanish>
+              <weight>14</weight>
+            </models.Data>
+            <models.Data>
+              <english>to leave</english>
+              <spanish>salir</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>from</english>
+              <spanish>desde</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>to put</english>
+              <spanish>poner</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>friend</english>
+              <spanish>amigo</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>during</english>
+              <spanish>durante</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>always</english>
+              <spanish>siempre</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>to begin</english>
+              <spanish>empezar</spanish>
+              <weight>15</weight>
+            </models.Data>
+            <models.Data>
+              <english>for, to</english>
+              <spanish>para</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>to know</english>
+              <spanish>saber</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>to walk</english>
+              <spanish>andar</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>to throw</english>
+              <spanish>echar</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>to say</english>
+              <spanish>decir</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>because</english>
+              <spanish>porque</spanish>
+              <weight>13</weight>
+            </models.Data>
+            <models.Data>
+              <english>goodbye</english>
+              <spanish>adiós</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>country</english>
+              <spanish>país</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>man</english>
+              <spanish>hombre</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>all, every</english>
+              <spanish>todo</spanish>
+              <weight>14</weight>
+            </models.Data>
+            <models.Data>
+              <english>to find</english>
+              <spanish>encontrar</spanish>
+              <weight>16</weight>
+            </models.Data>
+            <models.Data>
+              <english>president</english>
+              <spanish>presidente</spanish>
+              <weight>19</weight>
+            </models.Data>
+            <models.Data>
+              <english>to</english>
+              <spanish>a</spanish>
+              <weight>3</weight>
+            </models.Data>
+            <models.Data>
+              <english>very</english>
+              <spanish>muy</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>never</english>
+              <spanish>nunca</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>I, me</english>
+              <spanish>yo</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>yes</english>
+              <spanish>sí</spanish>
+              <weight>5</weight>
+            </models.Data>
+            <models.Data>
+              <english>hello</english>
+              <spanish>hola</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>you</english>
+              <spanish>tú</spanish>
+              <weight>5</weight>
+            </models.Data>
+            <models.Data>
+              <english>you</english>
+              <spanish>usted</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>now</english>
+              <spanish>ahora</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>other</english>
+              <spanish>otro</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>good</english>
+              <spanish>bueno</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>hou</english>
+              <spanish>hora</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>and</english>
+              <spanish>y</spanish>
+              <weight>4</weight>
+            </models.Data>
+            <models.Data>
+              <english>to see</english>
+              <spanish>ver</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>bad</english>
+              <spanish>malo</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>almost</english>
+              <spanish>casi</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>to go</english>
+              <spanish>ir</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>until</english>
+              <spanish>hasta</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>to love</english>
+              <spanish>amar</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>like, as</english>
+              <spanish>como</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>where</english>
+              <spanish>donde</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>for, by</english>
+              <spanish>por</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>to give</english>
+              <spanish>dar</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>to read</english>
+              <spanish>leer</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>but</english>
+              <spanish>pero</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>thing</english>
+              <spanish>cosa</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>who</english>
+              <spanish>quién</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>first</english>
+              <spanish>primero</spanish>
+              <weight>12</weight>
+            </models.Data>
+            <models.Data>
+              <english>much</english>
+              <spanish>mucho</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>to be</english>
+              <spanish>estar</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>new</english>
+              <spanish>nuevo</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>without</english>
+              <spanish>sin</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>no</english>
+              <spanish>no</spanish>
+              <weight>4</weight>
+            </models.Data>
+            <models.Data>
+              <english>when</english>
+              <spanish>cuando</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>boy</english>
+              <spanish>chico</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>also</english>
+              <spanish>también</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>to be</english>
+              <spanish>ser</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>to eat</english>
+              <spanish>comer</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>sad</english>
+              <spanish>triste</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>girl</english>
+              <spanish>chica</spanish>
+              <weight>9</weight>
+            </models.Data>
+            <models.Data>
+              <english>if</english>
+              <spanish>si</spanish>
+              <weight>4</weight>
+            </models.Data>
+            <models.Data>
+              <english>on, in</english>
+              <spanish>en</spanish>
+              <weight>8</weight>
+            </models.Data>
+            <models.Data>
+              <english>or</english>
+              <spanish>o</spanish>
+              <weight>3</weight>
+            </models.Data>
+            <models.Data>
+              <english>woman</english>
+              <spanish>mujer</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>more</english>
+              <spanish>más</spanish>
+              <weight>7</weight>
+            </models.Data>
+            <models.Data>
+              <english>before</english>
+              <spanish>antes</spanish>
+              <weight>11</weight>
+            </models.Data>
+            <models.Data>
+              <english>happy</english>
+              <spanish>feliz</spanish>
+              <weight>10</weight>
+            </models.Data>
+            <models.Data>
+              <english>to drink</english>
+              <spanish>beber</spanish>
+              <weight>13</weight>
+            </models.Data>
+          </list>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
