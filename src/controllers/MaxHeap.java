@@ -122,7 +122,7 @@ public class MaxHeap implements MaxHeapInterface {
 		if (wordData.size() == 0) {
 			System.out.println("Empty array.");
 		}
-		else if (wordData.size() == 0) {
+		else if (wordData.size() == 1) {
 			return wordData.remove(0);
 		}
 		Data maxNode = wordData.get(0);
